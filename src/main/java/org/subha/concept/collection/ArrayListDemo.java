@@ -1,4 +1,4 @@
-package org.subha.collection;
+package org.subha.concept.collection;
 
 import java.util.ArrayList;
 
