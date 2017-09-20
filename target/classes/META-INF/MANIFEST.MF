@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: JavaProgram
 Implementation-Version: 1.0
-Built-By: sahu
+Built-By: subudhis
 Implementation-Vendor-Id: JavaProgram
-Build-Jdk: 1.8.0_121
+Build-Jdk: 1.8.0_45
 Implementation-URL: http://projects.spring.io/spring-boot/JavaProgram/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
